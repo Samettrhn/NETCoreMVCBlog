@@ -7,6 +7,6 @@ namespace NETCoreMVCBlog.Models
             public int GonderiId { get; set; }
             public string YorumMetni { get; set; }
             public string YorumYapan { get; set; }
-        
+     
     }
 }
